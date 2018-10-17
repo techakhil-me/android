@@ -195,6 +195,8 @@ header{
   color: #fff;
   font-family: 'Archivo', sans-serif;
   font-size:10vw;
+  top: 50%;
+  left: 50%;
   color: black;
   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 0.01vw;
